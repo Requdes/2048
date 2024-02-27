@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7f90e19d7ca21c4bb19a4f7a4d4ce4b, type: 3}
+  m_Name: MergenCubeGradeData
+  m_EditorClassIdentifier: 
+  _stylesData:
+  - Value: 1
+    Material: {fileID: 2100000, guid: 5b11c931dd155464e99ccbae3a820fa6, type: 2}
+  - Value: 2
+    Material: {fileID: 2100000, guid: 47c2997eb99e7fb46a03436b0ebf2f89, type: 2}
+  - Value: 4
+    Material: {fileID: 2100000, guid: 7500620577564de41959e6cfce7254ae, type: 2}
+  - Value: 8
+    Material: {fileID: 2100000, guid: f29081571f6ebfb449ee419d781df996, type: 2}
+  - Value: 16
+    Material: {fileID: 2100000, guid: bc7fe23cd124f9748bcc16c933abefd8, type: 2}
+  - Value: 32
+    Material: {fileID: 2100000, guid: 38a95aa4d4cc3be458a07b2d5271c445, type: 2}
+  - Value: 64
+    Material: {fileID: 2100000, guid: 99de6e75a1b55b9408d53837fbc7f8e6, type: 2}
+  - Value: A
+    Material: {fileID: 2100000, guid: 5b11c931dd155464e99ccbae3a820fa6, type: 2}
+  - Value: B
+    Material: {fileID: 2100000, guid: 47c2997eb99e7fb46a03436b0ebf2f89, type: 2}
+  - Value: C
+    Material: {fileID: 2100000, guid: 7500620577564de41959e6cfce7254ae, type: 2}
+  - Value: D
+    Material: {fileID: 2100000, guid: f29081571f6ebfb449ee419d781df996, type: 2}
+  - Value: E
+    Material: {fileID: 2100000, guid: bc7fe23cd124f9748bcc16c933abefd8, type: 2}
+  - Value: F
+    Material: {fileID: 2100000, guid: 38a95aa4d4cc3be458a07b2d5271c445, type: 2}

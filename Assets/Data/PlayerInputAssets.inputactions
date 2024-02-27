@@ -1,0 +1,45 @@
+{
+    "name": "PlayerInputAssets",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "11844feb-bf28-448a-a13a-1f7b6900dfe6",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "c5ba562c-6c15-419b-a510-d704bc313d8c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cbf9a022-aff1-478f-8f28-3b52815ee94a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "db990bd8-f10a-4936-8942-6dc52e4247c0",
+                    "path": "<Touchscreen>/touch*/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
